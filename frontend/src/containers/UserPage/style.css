@@ -1,0 +1,15 @@
+.EmployeePage{
+    width: 100vw;
+    height: 100vh;
+}
+
+.searchBar{
+    height: 55px;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid gray
+}

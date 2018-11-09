@@ -1,0 +1,61 @@
+.AddNewPage{
+    width: 750px;
+    margin: auto;
+    height: 64vh;
+    margin-top: 6vh;
+    margin-bottom: 30vh;
+}
+.submitLine{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline
+}
+
+.EmployeeInfo{
+    width: 100%;
+    border: 1px solid lightgray;
+    display: flex;
+}
+
+.imgPanel{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 9%;
+}
+
+.imgPanel > img{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 12%
+}
+
+.imgPanel > form{
+    width: 100%;
+    padding-left: 15%
+}
+
+.infoForm{
+    width: 50%;
+    height: 100%;
+    padding-top: 5%;
+    padding-left: 6%;
+    padding-bottom: 5%;
+    padding-right: 6%;
+}
+
+.infoForm > label{
+    width: 100%
+}
+
+.textField{
+    width: 98%;
+}
+
+#manager{
+    background-color: white;
+    border: 1px solid lightgray;
+    height: 28px;
+}

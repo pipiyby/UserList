@@ -1,0 +1,16 @@
+{
+    "name": "my-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "p3_server.js",
+    "scripts": {
+      "start": "node p3_server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.16.3"
+    }
+  }
+  

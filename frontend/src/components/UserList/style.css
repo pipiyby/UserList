@@ -1,0 +1,33 @@
+.EmployeeList{
+    width: 100%;
+}
+
+.EmployeeTable{
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.EmployeeTable > thead > tr{
+    line-height: 40px
+}
+
+.EmployeeTable > tbody > tr{
+    line-height: 45px;
+    border-top: 1px solid lightgray
+}
+
+button{
+    background-color: transparent;
+    border: 0px
+}
+
+#delBtn{
+    color: red;
+}
+
+.avatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
